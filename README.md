@@ -22,10 +22,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - Como mencione anteriormente acá subire proyectos relacionados en las areas cuales me eh ido especializando a traves de tiempo.
-- 🔭 Actualmente trabajando en una página web sobre el poder y su composición en Chile.
+- 🔭 Desarrolle el sitio web de la institución Municipal de Conchalí al mando del Alcalde Rene de la Vega.
+- Cuento con experiencia y clon del sitio web Youtube y clon del sitio Web del Banco Estado Chileno.
 - 🌱 Desarrollando una app movil.
 - ⚡ Si quieres trabajar conmigo escribeme un mensaje.
-
-### Conecta conmigo 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgezdev)](https://github.com/anuraghazra/github-readme-stats)
