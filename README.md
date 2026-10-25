@@ -22,8 +22,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - Como mencione anteriormente acá subire proyectos relacionados en las areas cuales me eh ido especializando a traves de tiempo.
-- 🔭 Desarrolle el sitio web de la institución Municipal de Conchalí al mando del Alcalde Rene de la Vega.
-- Cuento con experiencia y clon del sitio web Youtube y clon del sitio Web del Banco Estado Chileno.
+- 🔭 Desarrolle el sitio web de la institución Municipal de Conchalí al mando del Alcalde Rene de la Vega. (Uso de Wordpress, Javascript, Elementor, Css y html)
+- Cuento con experiencia y clon del sitio web Youtube y clon del sitio Web del Banco Estado Chileno.(Uso de react, typescript, css, html, javascript)
 - 🌱 Desarrollando una app movil.
 - ⚡ Si quieres trabajar conmigo escribeme un mensaje.
 
